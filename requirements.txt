@@ -1,0 +1,7 @@
+streamlit
+numpy
+scikit-learn
+pypdf
+langchain-text-splitters
+ollama>=0.3.0
+python-docx
